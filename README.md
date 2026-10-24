@@ -1,8 +1,8 @@
 # Bingo Multiplayer
 
-<video src="./docs/BingoMultiplayerDemo.mp4" controls width="100%"></video>
-
 A real-time multiplayer Bingo game built with Node.js, Express, and Socket.IO. Players join a shared lobby, get matched into a room, and play Bingo against another player in the browser.
+
+https://github.com/user-attachments/assets/99051cba-adfe-47ca-8b92-e5920da4cc7a
 
 ## Features
 
